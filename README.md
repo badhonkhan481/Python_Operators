@@ -1,5 +1,5 @@
 # Python_Operators
-# Arthmetic operators
+# Arithmetic operators
 # Identify Operatios
 # Membership Operators
 # Bitwise Operators
